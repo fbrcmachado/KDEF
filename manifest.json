@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "name": "KDEF",
+  "version": "0.2",
+  "edition": "Evidence & Traceability Hardened",
+  "capabilities": [
+    {
+      "id": "source_analysis",
+      "label": "Analisar fontes do projeto e registrar evidências verificáveis"
+    },
+    {
+      "id": "fact_registry",
+      "label": "Extrair fatos, requisitos e decisões; identificar conflitos e lacunas"
+    },
+    {
+      "id": "traceability",
+      "label": "Rastrear fontes, afirmações, seções do modelo e testes"
+    },
+    {
+      "id": "template_fidelity",
+      "label": "Preencher cópia do modelo preservando estrutura e apresentação"
+    },
+    {
+      "id": "evidence_separation",
+      "label": "Separar fatos do projeto de referências oficiais da tecnologia"
+    },
+    {
+      "id": "validation",
+      "label": "Validar estrutura, conteúdo, evidência e apresentação visual"
+    },
+    {
+      "id": "reporting",
+      "label": "Entregar relatório de cobertura e impacto de mudanças"
+    }
+  ],
+  "version_authority": "git_repository_manifest"
+}

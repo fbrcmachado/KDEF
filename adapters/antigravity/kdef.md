@@ -1,0 +1,1 @@
+Ao ativar KDEF ou Modo Escriba, leia `AGENTS.md`, `.agents/skills/kdef/SKILL.md` e `.agents/skills/kdef/manifest.json` na raiz do projeto. Siga a skill canônica e monte a abertura com os dados do manifesto instalado.

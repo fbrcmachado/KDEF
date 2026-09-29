@@ -1,0 +1,2 @@
+description = "Ativar KDEF para documentação de projetos de dados"
+prompt = "Leia .agents/skills/kdef/SKILL.md e .agents/skills/kdef/manifest.json na raiz do projeto. Ative o KDEF e monte a abertura com os dados do manifesto instalado. Depois responda à solicitação: {{args}}"

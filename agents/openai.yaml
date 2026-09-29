@@ -1,0 +1,14 @@
+interface:
+  display_name: KDEF
+  short_description: Documentação de projetos de dados com rastreabilidade
+  default_prompt: Use $kdef para analisar as fontes e preencher um modelo de documentação
+    com evidências, validação e relatório de cobertura.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

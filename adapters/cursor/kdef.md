@@ -1,0 +1,1 @@
+Leia `.agents/skills/kdef/SKILL.md` e `.agents/skills/kdef/manifest.json` na raiz do projeto. Ative o KDEF e use a versão e as capacidades do manifesto instalado. Depois execute a solicitação do usuário.
