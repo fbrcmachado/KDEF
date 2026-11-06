@@ -1,6 +1,6 @@
 # KDEF
 
-KDEF significa **Kumulus Documentation Engineering Framework**. Ele reúne o Modo Escriba e seu fluxo de produção de documentação técnica para projetos de dados: fontes, evidências, rastreabilidade, preenchimento fiel de modelos e validação. O `manifest.json` versionado **neste repositório Git** é a fonte oficial da versão e das capacidades. Cada instalação usa uma revisão concreta do Git e mostra a versão dessa revisão.
+KDEF significa **Kumulus Documentation Engineering Framework**. Ele reúne o seu fluxo de produção de documentação técnica para projetos de dados: fontes, evidências, rastreabilidade, preenchimento fiel de modelos e validação. O `manifest.json` versionado **neste repositório Git** é a fonte oficial da versão e das capacidades. Cada instalação usa uma revisão concreta do Git e mostra a versão dessa revisão.
 
 
 ## Instalar em outro projeto com um agente
